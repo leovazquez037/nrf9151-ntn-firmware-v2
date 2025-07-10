@@ -1,0 +1,29 @@
+# Archivos de compilación de Zephyr/CMake
+build/
+build_*/
+CMake*/
+Testing/
+*.cmake
+*.ninja
+*.a
+*.o
+*.so
+*.obj
+*.elf
+*.hex
+*.bin
+*.map
+*.d
+
+# Archivos de configuración del IDE
+.idea/
+.vscode/
+*.suo
+*.user
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración local (si los hubiera)
+local.con
